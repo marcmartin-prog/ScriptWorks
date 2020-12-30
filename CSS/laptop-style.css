@@ -1,0 +1,76 @@
+@media (max-width: 1300px){
+  h1{
+    font-size: 45px;
+  }
+
+  .aqua-line4{
+    margin-left: 0;
+  }
+
+  .contact-us{
+    margin: 0 25px 0 25px;
+  }
+
+  .contact-us>h3{
+    margin-left: 0;
+  }
+
+  .different{
+    left: 5%;
+  }
+
+  .diff-arc{
+    left: -50%;
+  }
+
+  .difference{
+    margin-left: 20px;
+  }
+
+  .item1{
+    margin-left: 20px;
+  }
+
+  .item3{
+    margin-right: 20px;
+
+  }
+
+  .left-arrow{
+    left: -175px;
+  }
+
+
+  .logo{
+    margin-left: 20px;
+  }
+
+.menu-item{
+  padding: 20px 10px;
+}
+
+.profile{
+  max-width: 345px;
+}
+
+.right-arrow{
+  right: -175px;
+}
+
+.row1{
+  grid-template-columns: 0.9fr 1.1fr;
+}
+
+.row-profile{
+  grid-template-columns: 1.2fr 0.8fr;
+}
+
+.third-row{
+  grid-template-columns: 1.3fr 0.7fr;
+  margin-left: 35px;
+}
+
+  #hero-img{
+    content: url("hero-medium.png");
+  }
+}

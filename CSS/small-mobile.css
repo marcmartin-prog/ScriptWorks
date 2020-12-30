@@ -1,0 +1,360 @@
+@media(max-width: 425px){
+  h1{
+    font-size: 35px;
+  }
+
+  h2{
+    letter-spacing: 3.2px;
+    font-size: 42px;
+  }
+
+  .aqua-line{
+    top: 145px;
+  }
+
+  .aqua-line3{
+    display: none;
+  }
+
+  .background-img{
+    max-width: 400px;
+    max-height: 300px;
+    top: -10px;
+    left: -90px;
+  }
+
+  .ball{
+    left: -75px;
+  }
+
+  .ball2{
+    top: -100px;
+    right: 225px;
+  }
+
+  .big-arrow{
+    right: -175px;
+  }
+
+  .big-icon{
+    height: 115px;
+    width: 115px;
+  }
+
+  .big-p{
+    font-size: 20px;
+  }
+
+  .column>h4{
+    margin-block-start: 3px;
+  }
+
+  .column>p{
+    margin-block-start: 5px;
+  }
+
+  .contact-info>a>h4{
+    font-size: 14px;
+  }
+
+  .custom-shape-divider-top-1 svg {
+      height: 70px;
+  }
+
+
+
+
+  .custom-shape-divider-bottom-2 svg {
+      height: 70px;
+  }
+
+
+  .custom-shape-divider-bottom-4 svg {
+      height: 70px;
+  }
+
+
+
+  .custom-shape-divider-top-3 svg {
+      height: 70px;
+  }
+
+  .diff-arc{
+    left: -60%;
+  }
+
+  .difference{
+    margin-left: 0;
+    position: relative;
+    top: -10px;
+  }
+
+  .divider2{
+    margin: 10px auto 0;
+  }
+
+  .features{
+    padding: 95px 20px 20px 20px;
+  }
+
+  .features-row{
+    grid-gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .flex-display1{
+    margin: 0;
+  }
+
+  .hero-parent{
+    margin: auto;
+
+  }
+
+  .hero-img{
+    max-width: 175px;
+    top: -380px;
+  }
+
+  .hero-text{
+    top: 150px;
+    margin-left: 0;
+  }
+
+  .hero-text>p{
+    top: -30px;
+  }
+
+  .info{
+    margin: 0 15px 0 15px;
+  }
+
+  .info>p{
+    margin-block-start: 0;
+  }
+
+  .item1{
+    left: 7%;
+    width: 70vw;
+    height: 700px;
+  }
+
+  .item1-after{
+    left: -350px;
+  }
+
+  .item1-off{
+    left:-650px;
+  }
+
+  .item1>p{
+    margin-block-end: 2px;
+    margin-block-start: 2px;
+  }
+
+  .item2>p{
+    margin-block-end: 2px;
+    margin-block-start: 2px;
+  }
+
+  .item3>p{
+    margin-block-end: 2px;
+    margin-block-start: 2px;
+  }
+
+  .item2{
+    width: 70vw;
+    height: 700px;
+    top: -904px;
+  }
+
+  .item2-after{
+    left: -350px;
+  }
+
+  .item2-on{
+    left: 10%;
+  }
+
+  .item3{
+    width: 70vw;
+    height: 700px;
+    top: -1646px;
+  }
+
+  .item3-on{
+    left: 10%;
+  }
+
+  .left-arrow{
+    left: -85px;
+  }
+  .right-arrow{
+    right: -85px;
+  }
+
+  .logo{
+    margin-left: 10px
+  }
+
+.logo-bg{
+  left: 225px;
+}
+
+  .logo>a>img{
+    max-width: 250px;
+  }
+
+  .main-btn{
+    top: -65px;
+  }
+
+  .main-picture{
+    margin-bottom: 35px;
+  }
+
+  .pr-left-arrow{
+    left: -10px;
+  }
+
+  .pr-right-arrow{
+    right: -10px;
+  }
+
+  .price-bubble{
+    padding: 15px 2px;
+  }
+
+  .price-row{
+    flex-direction: column;
+  }
+
+  .price-row>p{
+    margin-block-end: 0;
+  }
+
+  .profile-parent{
+    top: -600px;
+  }
+
+
+
+  .third-row{
+    margin-left: 0;
+  }
+
+  .third-text{
+    margin: 0 45px 0 0;
+  }
+
+  #services{
+    margin-left: 25px;
+  }
+
+  #services>h3{
+    margin: 125px auto 200px;
+  }
+}
+
+@media(max-width: 395px){
+.profile-parent{
+  top: -660px;
+}
+
+}
+
+@media(max-width: 340px){
+
+  .about{
+    padding-right: 25px;
+
+  }
+  .about1{
+    padding-right: 25px;
+  }
+
+  .hero-img{
+    top: -440px;
+  }
+
+  .hero-img1{
+    left: -55px;
+  }
+
+  .profile{
+    max-width: 275px;
+  }
+
+  .profile-parent{
+    top: -780px;
+  }
+
+  .contact-info>a>h4{
+    font-size: 14px;
+  }
+
+  .item1{
+    left: 4%;
+  }
+
+  .item1-after{
+    left: -350px;
+  }
+
+  .item1-off{
+    left: -650px;
+  }
+
+  .item2-on {
+    left: 8%;
+  }
+
+  .item2-after{
+    left: -350px;
+  }
+
+  .item3-on{
+    left: 8%;
+  }
+
+  .left-arrow{
+    left: -75px;
+  }
+
+  .logo>a>img{
+    max-width: 225px;
+  }
+
+  .logo-bg{
+    left:200px;
+    top: -3px;
+  }
+
+
+
+  .portfolio-item>p{
+    width: 75vw;
+  }
+
+  .profile-parent{
+    top: -830px;
+  }
+
+  .right-arrow{
+    right: -75px;
+  }
+
+
+
+  .third-text{
+    margin-right: 85px;
+  }
+
+  #menu-button{
+    margin: 15px 10px;
+    position: relative;
+    left: -20px;
+  }
+
+
+}

@@ -1,0 +1,336 @@
+@media(max-width: 820px){
+  .third-bubble{
+    left: 0;
+    bottom: 0;
+  }
+
+  .aqua-line{
+    top: 175px;
+    width: 190px;
+  }
+
+  .aqua-line2{
+    top: 125px;
+    width: 165px;
+  }
+
+  .aqua-line3{
+    width: 282px;
+    top: 143px;
+  }
+
+  .aqua-line4{
+    display: none;
+  }
+}
+
+
+@media (max-width: 768px) {
+  header{
+    padding-top: 10px;
+  }
+
+  .about{
+    margin-right: 25px;
+
+  }
+   .about1{
+     position: relative;
+     top: 350px;
+     margin-right: 25px;
+   }
+
+
+
+   .big-arrow{
+     right: -45px;
+   }
+
+  .background-img{
+    max-width: 700px;
+    max-height: 600px;
+    top: -40px;
+    left: -135px;
+  }
+
+  .ball{
+    left: -45px;
+  }
+
+  .big-icon{
+    width: 125px;
+    height: 125px;
+  }
+
+  .big-arrow{
+
+  }
+
+  .column{
+    margin: 0 10px;
+  }
+
+  .column>h4{
+    margin-block-end:5px;
+  }
+
+  .contact-info{
+    margin-top: 45px;
+    position: relative;
+    left: -65px;
+  }
+
+  .contact-us{
+    margin: 0;
+  }
+
+  .custom-shape-divider-top-1 svg {
+      height: 100px;
+  }
+
+
+
+
+  .custom-shape-divider-bottom-2 svg {
+      height: 100px;
+  }
+
+
+  .custom-shape-divider-bottom-4 svg {
+      height: 100px;
+  }
+
+
+
+  .custom-shape-divider-top-3 svg {
+      height: 100px;
+  }
+
+
+   .first-row{
+     grid-template-columns: 1fr;
+   }
+
+   .diff-arc{
+     max-width: 750px;
+     left: -10%;
+     overflow: hidden;
+   }
+
+   .diff-heading{
+     margin: auto;
+     left: 0;
+   }
+
+.diff-row{
+  position: relative;
+  top: -120px;
+}
+
+   .diff-text{
+     top: -250px;
+     right: 2%;
+     margin-bottom: 0;
+     text-align: center;
+   }
+
+   .divider1{
+     top: -160px;
+   }
+
+   .features-row{
+     grid-template-columns: 1fr 1fr;
+     grid-gap: 8%;
+     margin-bottom: 200px;
+   }
+
+   .flex-display{
+     flex-direction: column;
+   }
+
+   .flex-display1{
+     margin: auto;
+   }
+
+   .gray-line{
+     top: 95px;
+     width: 185px;
+   }
+
+   .hero-img{
+     max-width: 345px;
+     position: relative;
+     top: -150px;
+   }
+
+   .hero-img1{
+     max-width: 345px;
+   }
+
+   .hero-text>p{
+     position: relative;
+     top: 300px;
+     margin-right: 25px;
+   }
+
+   .info{
+     max-width: 500px;
+     margin: 0 25px;
+     margin: auto;
+   }
+
+   .item1{
+     left: 25%;
+     width: 280px;
+   }
+
+   .item1-after{
+     left: -350px;
+   }
+
+   .item1-off{
+     left: -650px;
+   }
+
+   .item2{
+      width: 280px;
+      left: 650px;
+      top: -1060px;
+   }
+
+   .item2-on{
+     left: 25%;
+   }
+
+   .item2-after{
+     left: -350px;
+   }
+
+   .item3{
+     width: 280px;
+     left: 900px;
+     top: -1918px;
+   }
+
+   .item3-before{
+     left: 650px;
+   }
+
+   .item3-on{
+     left: 25%;
+   }
+
+   .main-btn{
+     position: relative;
+     top: 275px;
+   }
+
+   .main-picture{
+     width: 100%;
+     border-radius: 10px;
+   }
+
+   .more{
+     margin:0 25px 0 25px;
+   }
+
+   .portfolio-row{
+     padding-top: 45px;
+   }
+
+   .portfolio-row>.flex-display{
+     flex-direction: row;
+   }
+
+   .pr-left-arrow{
+     position: absolute;
+     left: 30px;
+     top: 40%;
+     z-index: 5;
+     transition: 0.3s;
+     display: block;
+   }
+
+   .pr-left-arrow:hover{
+     transform: scale(1.1);
+   }
+
+   .pr-right-arrow{
+     position: absolute;
+     right: 30px;
+     top: 40%;
+     z-index: 5;
+     transition: 0.3s;
+     display: block;
+   }
+
+   .pr-right-arrow:hover{
+     transform: scale(1.1);
+   }
+
+   .price-item-parent{
+    display: block;
+    height: 700px;
+   }
+
+   .prices-container{
+   }
+
+   .price-row{
+     justify-content: center;
+  }
+
+  .profile{
+    margin: 40px 0 0 25px;
+  }
+
+  .profile-parent{
+    position: relative;
+    top: -320px;
+  }
+
+   .row{
+     grid-template-columns: 1fr;
+
+   }
+
+   .row-profile{
+     grid-template-columns: 1fr;
+   }
+
+   .row1{
+     grid-template-columns: 1fr;
+   }
+
+   .save-money>.hero-img{
+     top: 20px;
+   }
+
+   .save-money{
+     margin: auto;
+   }
+
+   .third-bubble{
+     left: 10px;
+   }
+
+   .third-heading{
+     margin-top: 0;
+   }
+
+   .third-price{
+     top:-30px;
+   }
+
+   .third-row{
+     grid-template-columns: 1fr;
+   }
+
+   .third-text{
+     margin-right: 20px;
+   }
+   #services>h3{
+     margin: 125px auto 225px;
+   }
+
+}
